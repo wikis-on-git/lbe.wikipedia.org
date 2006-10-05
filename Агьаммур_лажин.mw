@@ -10,7 +10,10 @@ For help, see '''[[m:Help:How to start a new Wikipedia|how to start a new Wikipe
 ==Sister projects==
 [http://meta.wikipedia.org Meta-Wikipedia] | [http://www.wiktionary.org Wikitonary] | [http://www.wikibooks.org Wikibooks] | [http://www.wikinews.org Wikinews] | [http://www.wikiquote.org Wikiquote] | [http://www.wikisource.org Wikisource]
 
-See the [http://www.wikipedia.org Wikipedia portal] for other language Wikipedias.
+<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
+<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
+{{Wikipedialang}}
+</div>
 
 [[ab:]]
 [[ar:]]
