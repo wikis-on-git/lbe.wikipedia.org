@@ -21,7 +21,7 @@
 <table>
 <tr valign=top>
 <td>
-{{Template:Potd|width=<includeonly>{{{width|200}}}</includeonly><noinclude>200</noinclude>}}
+{{Template:Potd|width=<includeonly>{{{width|300}}}</includeonly><noinclude>300</noinclude>}}
 </td>
 <td>&nbsp;</td>
 
