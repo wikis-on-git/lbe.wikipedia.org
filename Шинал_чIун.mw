@@ -23,7 +23,7 @@
 |КIи
 |rowspan="2"|КIи
 |rowspan="3"|КIи
-!bgcolor=white|январь
+!bgcolor=lightgrey|январь
 |rowspan="2" bgcolor=yellow|Гъи
 |rowspan="3" bgcolor=yellow|Гъи
 |- align="center" valign="middle" bgcolor=lightgreen
@@ -31,7 +31,7 @@
 !bgcolor=white|февраль
 |- align="center" valign="middle" bgcolor=lightgreen
 |rowspan="3"|Инт
-!bgcolor=white|март
+!bgcolor=lightgrey|март
 |rowspan="3" bgcolor=orange|Ссут
 |- align="center" valign="middle"
 |rowspan="3"|Инт
@@ -39,21 +39,21 @@
 |rowspan="3" bgcolor=orange|Ссут
 |- align="center" valign="middle"
 |rowspan="3" bgcolor=yellow|Гъи
-!bgcolor=white|май
+!bgcolor=lightgrey|май
 |- align="center" valign="middle"
 |rowspan="3" bgcolor=yellow|Гъи
 !bgcolor=white|июнь
 |rowspan="3" bgcolor=lightblue|КIи
 |- align="center" valign="middle" bgcolor=lightblue
 |rowspan="3" bgcolor=yellow|Гъи
-!bgcolor=white|июль
+!bgcolor=lightgrey|июль
 |rowspan="3" bgcolor=lightblue|КIи
 |- align="center" valign="middle" 
 |rowspan="3" bgcolor=orange|Ссут
 !bgcolor=white|август
 |- align="center" valign="middle"
 |rowspan="3" bgcolor=orange|Ссут
-!bgcolor=white|сентябрь
+!bgcolor=lightgrey|сентябрь
 |rowspan="3" bgcolor=lightgreen|Инт
 |- align="center" valign="middle"
 |rowspan="3" bgcolor=orange|Ссут
@@ -61,7 +61,7 @@
 |rowspan="3" bgcolor=lightgreen|Инт
 |- align="center" valign="middle" bgcolor=lightblue
 |rowspan="2" bgcolor=lightblue|КIи
-!bgcolor=white|ноябрь
+!bgcolor=lightgrey|ноябрь
 |- align="center" valign="middle" bgcolor=lightblue
 |КIи
 !bgcolor=white|декабрь
