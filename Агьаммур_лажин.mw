@@ -1,128 +1,55 @@
-<div style="margin-bottom: 0em; padding: 3em; font-size: 1.2em">
-:Вин '''[[лакку маз]]''' кӀуллив?
-:Вин ччивав лакку мазрайсса [[энциклопедия]] буллалиминнавух икIан?
-:Мукун бухьурча ХӀАЛА УХХУ!</div>
-<div class="center">ЖучӀава шиву дуссар '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' макьала. '''[[Special:Allpages|Циняв лажинтру]]'''.<br>[[{{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}]] [[{{CURRENTYEAR}} шин]], {{CURRENTDAYNAME}}, {{CURRENTTIME}} [[UTC]]</div><br>
-
-<div style="text-align:center; font-weight: bold; font-size: 1.5em">[[ХӀаллихшиву дан: ДачӀавун кумаг бан цукун бучӀиссар? Кумаграйн ци дан бучӀиссар? Кумаграйн ци аьркинну дур?|ХӀала уххан бучӀиссарив?]]</div>
-
-{|width="100%" border="0" cellspacing="0" cellpadding="5" 
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;text-align: center;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:Artalt.png|44px|]]</div>
-|width="50%" style="font-size:85%;"|<big>'''«[[Паргалшиву]]»'''</big><br />
-[[Адабият]] (Луттирду)
-· [[Лакрал луттирду]] ([[Курди Закуев]])
-· [[Лакку маз]] 
-· [[Яруссаннал маз]]
-· [[Мичихичнал маз]] 
-· [[Туркнал маз]]
-· [[ТIиятIир]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:Sciences exactes.svg|44px|]]</div>
-|width="50%" style="font-size:85%"|<big>'''[[ТIабиаьтрал элмурду]]'''</big><br />
-[[Физика]]
-· [[Ранг]]
-· [[Химия]]
-· [[ЦIурттал элму|ЦIурттал элму]]
-· [[Шинал чIун]]
-· [[Математика]]
-· [[ХIакиннал элму]]
-· [[ТIабиаьт]]
-· [[Биология]]
-· [[ХIайван|ХIайвант]]
-· [[Лелуххи]]
-· [[Ущущулгъи]]
-· [[Ххяххияртту]]
-· [[Ахъулсса]]
-· [[Гьиндусттан]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:Gnome-globe.svg|44px|Jéografie]]</div>
-|width="50%" style="font-size:85%; border-top:2px dotted #DDDDF7;"|<big>'''[[География]]'''</big><br />
-[[Лакрал кIану]]
-· [[Лакрал щархъурду]]
-· [[Дагъусттан]]
-· [[Дуниял]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:ReligiousSymbols.svg|44px|Relijyons pi croéyanches]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Дин]]'''</big><br />
-[[Ислам]]
-· [[Чак]]
-· [[Ххачпарас дин]]
-· [[Инжил]]
-· [[ЖугьутIнал дин]]
-· [[Таврат]]
-· [[Забур]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:P_Football.png|44px|Sports]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Спорт]]'''</big><br />
-[[Футбол]]
-· [[Регби]]
-· [[ЛачIун уккаву]]
-· [[Бияву]]
-· [[Чурх таза баву]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:Musical notes.svg|44px|]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Балайрду]]'''</big><br />
-[[Щунудагъ-2009]]
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|<div style="position:relative;width:44px;height:44px;z-index:2;overflow:hidden;"><div class="nodeco" style="position:absolute;font-size:44px;overflow:hidden;line-height:44px;letter-spacing:44px;"></div>[[Сурат:Sciences humaines.svg|44px|Syinches humènes pi sociales]]</div>
-|width="50%" style="font-size:85%;border-top:2px dotted #DDDDF7;"|<big>'''[[Жяматрал элмурду]]'''</big><br />
-[[Маз|Мазру]]
-· [[Тарих]]
-· [[Имам Шамил]]
-· [[СалахIуддин Айюби]]
-· [[Аькьлукарнал элму]]
-· [[Маэшатрал низам]]
-<!-- ________________________________________ -->
+__NOTOC__
+{{Агьаммур лажин/header}}
+{| style="margin-top:10px; background:none;"
+| style="width:65%; border:1px solid #000000; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
+|<!-- Список статей -->
+<!-- {{Агьаммур лажин/section
+|image=HSutvald2.svg
+|header=Язимур макьала
+|content=<div id="mf-image" title="Язимур макьала">{{Агьаммур лажин/featured article}}</div>
+|down= [[Википедия:Язимур макьала|Цинявппа Язимий макьаларду ('''0''')]] {{!}} [[Шаблон:Агьаммур лажин/featured article|Буруган]]
+}}-->
+{{Агьаммур лажин/section
+|image=HSbra2.svg
+|header=Абурсса макала
+|content=<div id="mf-image" title="Абурсса макала">{{Агьаммур лажин/good article}}</div>
+|down=[[Википедия:Абурсса макала|Цинявппа Абурсса макьаларду ('''1''')]] {{!}} [[Шаблон:Агьаммур лажин/good article|Буруган]]
+}}
+{{Агьаммур лажин/section
+|image=HSCategory.svg
+|header=Макьаларду
+|content=<div id="mf-image" title="Макьаларду">{{Агьаммур лажин/articles}}</div>
+|down=[[Шаблон:Агьаммур лажин/articles|Буруган]]
+}}
 |}
-
-
-{{Лакрал щархъурду}}
-<!-- [[Кьуба]], [[ЧӀара]], [[Ккуркли]], [[Кума]], [[КӀундими]], [[Хьараша]], [[Унчукутль]], [[Гъумучи]], [[Хъуна]], [[Хьури]], [[Кубра]], [[Ури]], [[Шовкра]], [[Щара]], [[Хурхи]], [[КӀулушацӀ]], [[Хулисма]], [[Бурши]]
-
-[[Къани]], [[Вихьли]], [[Ккули]], [[Хайхи]], [[Цыйши]], [[Ваччи]], [[Кая]], [[Сумбатль]], [[ЦӀушар]], [[ЦӀовкра-2]], [[Хосрех]], [[ЦӀовкра-1]]
-
-[[Аракул]], [[Новолакрей]], [[Тухчар]], [[Гамиях]], [[Новочуртах]], [[Дучи]], [[Ахар]], [[Новокули]]... -->
-<table>
-<tr valign=top>
-<td>
-{{Template:Potd|width=<includeonly>{{{width|300}}}</includeonly><noinclude>300</noinclude>}}
-</td>
-<td>&nbsp;</td>
-
-<td>
-<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
-<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
-{{Wikipedialang}}
-</div>
-</td>
-</tr>
-</table>
-
-== Гьансса къллугъру ==
-<div class="center"><div id="wikimedia-projects" style="margin: 2em;">
-<ul class="inline-list">
-[[File:Wiktionary-logo.svg|50px|link=incubator:Wt/lbe|Викисловарь]]
-[[File:Wikibooks-logo.svg|50px|link=incubator:Wb/lbe|Викиучебник]]
-[[File:Wikisource-logo.svg|50px|link=wikisource:Агьаммур лажин|Викитека]]
-[[File:Wikiquote-logo.svg|50px|link=incubator:Wq/lbe|Викицитатник]]
-[[File:Wikispecies-logo.svg|50px|link={{fullurle:species:Main page|uselang=lbe}}|Викивиды]]
-[[File:Wikinews-logo.svg|65px|link=incubator:Wn/lbe|Викиновости]]
-[[File:Wikiversity-logo.svg|50px|link=wikiversity:Агьаммур лажин|Викиверситет]]
-[[File:Commons-logo.svg|45px|link={{fullurle:commons:Main page|uselang=lbe}}|Викисклад]]
-[[File:Wikimedia-logo.svg|50px|link={{fullurle:meta:Main page|uselang=lbe}}|Мета-Вики]]
-[[File:MediaWiki-2020-icon.svg|50px|link={{fullurle:mw:MediaWiki/en|uselang=lbe}}|MediaWiki.org]]
-</ul>
-</div></div>
+| style="border:5px solid transparent;" |
+| style="width:35%; border:1px solid #a7d7f9; background:#e8fce3; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"|
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;  text-align: left;"
+|{{Агьаммур лажин/section
+|image=W-circle.svg
+|header=ЦӀусса макьала сакин дуван
+|content=<div id="mf-image" title="ЦӀусса макьала сакин дуван">{{Агьаммур лажин/new}}</div>
+|down=[[Шаблон:Агьаммур лажин/new|Буруган]]
+|font-size=95
+}}
+{{Агьаммур лажин/section
+|image=PL Wiki InM ikona.svg
+|header=Кьинилул сурат
+|content=<div id="mf-image" title="Кьинилул сурат">{{Агьаммур лажин/featured image}}</div>
+|down=[[Шаблон:Агьаммур лажин/featured image|Буруган]]
+|font-size=95
+}}
+{{Агьаммур лажин/section
+|image=HSWikimedia.svg
+|header=1000 макьала
+|content=<div id="mf-thousand" title="1000 макьала">{{Агьаммур лажин/1000}}</div>
+|down=[[Википедия:1000|1000 макьала]] {{!}} [[Шаблон:Агьаммур лажин/1000|Буруган]]
+|font-size=95
+}}
+|}
+|}
+{{Агьаммур лажин/wikimedia}}
+{{Агьаммур лажин/interwiki}}
+{{Noexternallanglinks}}
+&nbsp;
